@@ -11,7 +11,7 @@ public class Calculadora {
         int b = scanner.nextInt();
 
         System.out.println("El resultado es: " + Suma(a,b));
-        System.out.println("Gracias por utilizar la calculadora");
+
     }
 
     public static int Suma(int a, int b){
