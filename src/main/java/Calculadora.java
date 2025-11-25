@@ -5,6 +5,7 @@ public class Calculadora {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Bienvenido a la calculadora");
         System.out.println("Introduce el primer número a sumar: ");
         int a = scanner.nextInt();
         System.out.println("Introduce el segundo número a sumar: ");
